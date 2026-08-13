@@ -1,0 +1,6 @@
+{
+  "name": "AI Recruiting Agent",
+  "description": "Production-quality AI Recruiting Agent platform featuring resume parsing, semantic matching, explainable scoring, LangGraph agent workflow orchestration, and recruitment management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

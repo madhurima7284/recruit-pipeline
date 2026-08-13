@@ -1,0 +1,6 @@
+export const CANDIDATE_STATUS = {
+  SHORTLIST: 'SHORTLIST',
+  REVIEW: 'REVIEW',
+  REJECT: 'REJECT',
+  NEW: 'NEW'
+};
